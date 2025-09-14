@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello, I'm Beth
+
+Complicated problems are my favorite kind. I love breaking them down, untangling the messy data, and turning it all into stories that spark action. I’ve built analytics foundations end-to-end, including pipelines, models, experiments, dashboards. My specialty is digital product and growth analytics, where I get to connect numbers with real business outcomes.
+
+Me, in a nutshell:
+![My Skills Map](skills_map.png)
+
+
 
 <!--
 **bethgross/BethGross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
