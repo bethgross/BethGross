@@ -2,30 +2,27 @@
 
 Complicated problems are my favorite kind. I like breaking them down, untangling messy data, and turning it into clear stories that spark action. I’ve built analytics foundations end-to-end — pipelines, models, experiments, dashboards. My sweet spot is digital product and growth analytics, where I get to connect numbers with business outcomes (and have some fun in the process).
 
-Me, in a nutshell:  
-![My Skills Map](skills_map.png)
-
-
 ## Portfolio
 
 I’m in the process of adding more public projects here. For now, a few highlights:
 
-### Developing Intuition
-I like to dig into the nuts and bolts of processes, algorithms, and problems with the goal of making them intuitive and clear.  
-
-#### Examples
 * [Fitting Linear Regressions](https://github.com/bethgross/developing-intuition/blob/a3547bd2b87d227418e788c42805d22cd605ef81/linear_regression.ipynb)
 * [Building a website using Hugo (without a theme)](https://github.com/bethgross/my-hugo-site)
 
+## Currently working on
+
+* Studing and practicing methods to evaluate the performance and impact of AI models
+* Thinking about empirical analysis as applied to AI:
+  * What measurement methods exist in other industries that could be applied here? For example, could certain principles of psychometrics be applied to an LLM?
+  * How can we overcome the fundamental challenge of reproducibility with AI models?
+  * How much randomness is there in a model? Does it apply to all elements (words, numbers), and does it change over time? 
 
 ## Beyond Data
 
 Outside of analytics, I:  
-- Freedive, swim, and paddleboard  
+- Freedive, swim, and stand-up paddleboard  
 - Carve wooden spoons and love to cook  
-- Hike and explore new places  
-- Tinker and learn new things (currently: acoustic guitar)  
-- Read, recharge, and watch SailGP and tennis  
+- Tinker and learn new things (currently: AI tools and acoustic guitar)  
 
 ![fun stuff](https://github.com/user-attachments/assets/5ffc4d57-3692-4107-9380-13d338897535)
 
