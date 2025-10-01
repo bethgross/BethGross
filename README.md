@@ -7,7 +7,7 @@ Complicated problems are my favorite kind. I like breaking them down, untangling
 I’m in the process of adding more public projects here. For now, a few highlights:
 
 * [Fitting Linear Regressions](https://github.com/bethgross/developing-intuition/blob/a3547bd2b87d227418e788c42805d22cd605ef81/linear_regression.ipynb)
-* [Building a website using Hugo (without a theme)](https://github.com/bethgross/my-hugo-site)
+* [Building a website using Hugo (without a theme)](https://bethgross.github.io/my-hugo-site/)
 
 ## Currently working on
 
